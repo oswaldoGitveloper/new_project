@@ -1,2 +1,2 @@
 # new_project
-### Resitory dedicated to StudioLog
+### Repository dedicated to StudioLog
